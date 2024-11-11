@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI and bullding web sites**
 
-- 🌱 I’m currently learning **python and c languages**
+- 🌱 I’m currently learning **python, c ,java script and c++ languages**
 
 - 📫 How to reach me **minou205bouzidi@gmail.com**
 
